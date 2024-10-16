@@ -1,0 +1,562 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\Unity\\ICTProject (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\usedassets\\mainscene\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\LocomotionSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\LocomotionSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EC1E1C-C50F-C2A3-46F8-645EC257A3F3}|PhotonUnityNetworking.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\photon\\photonunitynetworking\\code\\photonview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EC1E1C-C50F-C2A3-46F8-645EC257A3F3}|PhotonUnityNetworking.csproj|solutionrelative:assets\\photon\\photonunitynetworking\\code\\photonview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XROrigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XROrigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EC1E1C-C50F-C2A3-46F8-645EC257A3F3}|PhotonUnityNetworking.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\photon\\photonunitynetworking\\code\\views\\photontransformview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EC1E1C-C50F-C2A3-46F8-645EC257A3F3}|PhotonUnityNetworking.csproj|solutionrelative:assets\\photon\\photonunitynetworking\\code\\views\\photontransformview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\usedassets\\mainscene\\scripts\\vrrig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\vrrig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\usedassets\\mainscene\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\Continuous\\ActionBasedContinuousMoveProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\Continuous\\ActionBasedContinuousMoveProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|d:\\work\\unity\\ictproject (2)\\assets\\usedassets\\mainscene\\player\\starterassets\\thirdpersoncontroller\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\player\\starterassets\\thirdpersoncontroller\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440AEEAF-90B2-716B-233C-1BC501BAAB8E}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\samples\\xr interaction toolkit\\2.5.4\\starter assets\\scripts\\dynamicmoveprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440AEEAF-90B2-716B-233C-1BC501BAAB8E}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\2.5.4\\starter assets\\scripts\\dynamicmoveprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Controllers\\XRController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Controllers\\XRController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\vr character hand\\handanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\vr character hand\\handanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Inputs\\InputActionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Inputs\\InputActionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\usedassets\\mainscene\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\usedassets\\mainscene\\scripts\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\usedassets\\mainscene\\scripts\\walksoundcontrolscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\walksoundcontrolscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EC1E1C-C50F-C2A3-46F8-645EC257A3F3}|PhotonUnityNetworking.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\photon\\photonunitynetworking\\code\\photonnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EC1E1C-C50F-C2A3-46F8-645EC257A3F3}|PhotonUnityNetworking.csproj|solutionrelative:assets\\photon\\photonunitynetworking\\code\\photonnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\usedassets\\mainscene\\scripts\\vrnetworkplayerrig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\vrnetworkplayerrig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\usedassets\\mainscene\\scripts\\dooropensoundscrips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\dooropensoundscrips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\usedassets\\mainscene\\scripts\\cameranearcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\cameranearcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EC1E1C-C50F-C2A3-46F8-645EC257A3F3}|PhotonUnityNetworking.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\photon\\photonunitynetworking\\code\\photonnetworkpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EC1E1C-C50F-C2A3-46F8-645EC257A3F3}|PhotonUnityNetworking.csproj|solutionrelative:assets\\photon\\photonunitynetworking\\code\\photonnetworkpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C2AC6E-0401-49E3-89D5-D4FD00410970}|PhotonUnityNetworking.Utilities.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\photon\\photonunitynetworking\\utilityscripts\\prototyping\\onjoinedinstantiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C2AC6E-0401-49E3-89D5-D4FD00410970}|PhotonUnityNetworking.Utilities.csproj|solutionrelative:assets\\photon\\photonunitynetworking\\utilityscripts\\prototyping\\onjoinedinstantiate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.management@4.4.0\\Editor\\Metadata\\XRPackageMetadataStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.management@4.4.0\\Editor\\Metadata\\XRPackageMetadataStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Map\\_3D Scifi Kit Starter Kit\\NewSceneTemplatePipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UsedAssets\\MainScene\\Map\\_3D Scifi Kit Starter Kit\\NewSceneTemplatePipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Assets\\DoorOpenSoundScrips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DoorOpenSoundScrips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorRenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorRenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorWizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorWizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\usedassets\\mainscene\\scripts\\dooropenscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\dooropenscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject (2)\\assets\\usedassets\\mainscene\\player\\starterassets\\inputsystem\\starterassetsinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ED9701-1674-579D-E87E-1C5635E68BF9}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\player\\starterassets\\inputsystem\\starterassetsinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Runtime\\UniversalAdditionalCameraData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Runtime\\UniversalAdditionalCameraData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Assets\\walkSoundControlScripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\walkSoundControlScripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\AnimationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UsedAssets\\MainScene\\AnimationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActionBasedContinuousMoveProvider.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\Continuous\\ActionBasedContinuousMoveProvider.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\Continuous\\ActionBasedContinuousMoveProvider.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\Continuous\\ActionBasedContinuousMoveProvider.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\Continuous\\ActionBasedContinuousMoveProvider.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:00:21.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\AnimationController.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\AnimationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:04:48.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VRRig.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\VRRig.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\VRRig.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\VRRig.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\VRRig.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwCUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T04:07:32.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocomotionSystem.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\LocomotionSystem.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\LocomotionSystem.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\LocomotionSystem.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\LocomotionSystem.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:37:57.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\Player.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:31:14.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhotonView.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonView.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonView.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonView.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:47:04.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XROrigin.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XROrigin.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XROrigin.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XROrigin.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XROrigin.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:07:30.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhotonTransformView.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\Photon\\PhotonUnityNetworking\\Code\\Views\\PhotonTransformView.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonUnityNetworking\\Code\\Views\\PhotonTransformView.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\Photon\\PhotonUnityNetworking\\Code\\Views\\PhotonTransformView.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonUnityNetworking\\Code\\Views\\PhotonTransformView.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAjwDwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:57:05.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThirdPersonController.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Player\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Player\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Player\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Player\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAwEwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:57:22.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XRController.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Controllers\\XRController.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Controllers\\XRController.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Controllers\\XRController.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Interaction\\Controllers\\XRController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:50:34.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HandAnimation.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\VR Character Hand\\HandAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\VR Character Hand\\HandAnimation.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\VR Character Hand\\HandAnimation.cs",
+              "RelativeToolTip": "Assets\\VR Character Hand\\HandAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:02:24.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InputActionManager.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Inputs\\InputActionManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Inputs\\InputActionManager.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Inputs\\InputActionManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Inputs\\InputActionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:41:44.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DynamicMoveProvider.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\Samples\\XR Interaction Toolkit\\2.5.4\\Starter Assets\\Scripts\\DynamicMoveProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.5.4\\Starter Assets\\Scripts\\DynamicMoveProvider.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\Samples\\XR Interaction Toolkit\\2.5.4\\Starter Assets\\Scripts\\DynamicMoveProvider.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.5.4\\Starter Assets\\Scripts\\DynamicMoveProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:18:08.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerSpawner.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\PlayerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\PlayerSpawner.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\PlayerSpawner.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\PlayerSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:30:01.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\NetworkManager.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\NetworkManager.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\NetworkManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:45:41.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "walkSoundControlScripts.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\walkSoundControlScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\walkSoundControlScripts.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\walkSoundControlScripts.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\walkSoundControlScripts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:41:51.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CameraNearController.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\CameraNearController.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\CameraNearController.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\CameraNearController.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\CameraNearController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:31:56.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PhotonNetwork.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "ViewState": "AQIAAOULAAAAAAAAAAAiwP0LAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:18:34.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VRnetworkPlayerRig.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\VRnetworkPlayerRig.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\VRnetworkPlayerRig.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\VRnetworkPlayerRig.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\VRnetworkPlayerRig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:26:12.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DoorOpenSoundScrips.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\DoorOpenSoundScrips.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\DoorOpenSoundScrips.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\DoorOpenSoundScrips.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\DoorOpenSoundScrips.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:53:39.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PhotonNetworkPart.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetworkPart.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetworkPart.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetworkPart.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetworkPart.cs",
+              "ViewState": "AQIAAJwJAAAAAAAAAAAUwPEJAADcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:11:34.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "XRPackageMetadataStore.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.management@4.4.0\\Editor\\Metadata\\XRPackageMetadataStore.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.management@4.4.0\\Editor\\Metadata\\XRPackageMetadataStore.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.management@4.4.0\\Editor\\Metadata\\XRPackageMetadataStore.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.management@4.4.0\\Editor\\Metadata\\XRPackageMetadataStore.cs",
+              "ViewState": "AQIAAKoDAAAAAAAAAAAmwMMDAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:24:43.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OnJoinedInstantiate.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\Photon\\PhotonUnityNetworking\\UtilityScripts\\Prototyping\\OnJoinedInstantiate.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonUnityNetworking\\UtilityScripts\\Prototyping\\OnJoinedInstantiate.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\Photon\\PhotonUnityNetworking\\UtilityScripts\\Prototyping\\OnJoinedInstantiate.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonUnityNetworking\\UtilityScripts\\Prototyping\\OnJoinedInstantiate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T23:22:53.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NewSceneTemplatePipeline.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Map\\_3D Scifi Kit Starter Kit\\NewSceneTemplatePipeline.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Map\\_3D Scifi Kit Starter Kit\\NewSceneTemplatePipeline.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Map\\_3D Scifi Kit Starter Kit\\NewSceneTemplatePipeline.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Map\\_3D Scifi Kit Starter Kit\\NewSceneTemplatePipeline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:52:45.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RigEffectorRenderer.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorRenderer.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorRenderer.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorRenderer.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorRenderer.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAewM4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:36:08.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RigEffectorWizard.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorWizard.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorWizard.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorWizard.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorWizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:36:01.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "XRLoggingUtils.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XRLoggingUtils.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwDcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:06:52.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoorOpenSoundScrips.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\DoorOpenSoundScrips.cs",
+              "RelativeDocumentMoniker": "Assets\\DoorOpenSoundScrips.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\DoorOpenSoundScrips.cs",
+              "RelativeToolTip": "Assets\\DoorOpenSoundScrips.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:36:25.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DoorOpenScripts.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\DoorOpenScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\DoorOpenScripts.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Scripts\\DoorOpenScripts.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\DoorOpenScripts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:43:47.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StarterAssetsInputs.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Player\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Player\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\Player\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Player\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:43:35.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UniversalAdditionalCameraData.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Runtime\\UniversalAdditionalCameraData.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Runtime\\UniversalAdditionalCameraData.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Runtime\\UniversalAdditionalCameraData.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Runtime\\UniversalAdditionalCameraData.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:22:56.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\AnimationController.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\UsedAssets\\MainScene\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\AnimationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:00:54.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "walkSoundControlScripts.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject (2)\\Assets\\walkSoundControlScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\walkSoundControlScripts.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject (2)\\Assets\\walkSoundControlScripts.cs",
+              "RelativeToolTip": "Assets\\walkSoundControlScripts.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:35:48.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

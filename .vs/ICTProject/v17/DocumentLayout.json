@@ -1,0 +1,544 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\Unity\\ICTProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\selectscene\\scripts\\senarioprocessreadyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\selectscene\\scripts\\senarioprocessreadyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|d:\\work\\unity\\ictproject\\assets\\usedassets\\selectscene\\scripts\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\selectscene\\scripts\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\selectscene\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\selectscene\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6B748D-CDEA-8191-5A15-69812369AED5}|PhotonUnityNetworking.csproj|d:\\work\\unity\\ictproject\\assets\\asset(features)\\photon\\photonunitynetworking\\code\\views\\photontransformview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6B748D-CDEA-8191-5A15-69812369AED5}|PhotonUnityNetworking.csproj|solutionrelative:assets\\asset(features)\\photon\\photonunitynetworking\\code\\views\\photontransformview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\mainscene\\animation\\hands\\vr character hand\\handanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\animation\\hands\\vr character hand\\handanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\mainscene\\scripts\\api\\saveus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\api\\saveus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|d:\\work\\unity\\ictproject\\assets\\usedassets\\mainscene\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\mainscene\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6B748D-CDEA-8191-5A15-69812369AED5}|PhotonUnityNetworking.csproj|D:\\work\\Unity\\ICTProject\\assets\\asset(features)\\photon\\photonunitynetworking\\code\\photonview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6B748D-CDEA-8191-5A15-69812369AED5}|PhotonUnityNetworking.csproj|solutionrelative:assets\\asset(features)\\photon\\photonunitynetworking\\code\\photonview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|d:\\work\\unity\\ictproject\\assets\\usedassets\\mainscene\\scripts\\setname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\setname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\mainscene\\scripts\\appearchattingbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\appearchattingbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\lobby\\scripts\\startmanagerscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\lobby\\scripts\\startmanagerscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\mainscene\\scripts\\vrchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\vrchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorWizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorWizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\mainscene\\scripts\\walksoundcontrolscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\walksoundcontrolscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\mainscene\\scripts\\api\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\api\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\mainscene\\scripts\\api\\wavutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\api\\wavutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Controllers\\ActionBasedController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Controllers\\ActionBasedController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Locomotion\\Continuous\\ActionBasedContinuousMoveProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Locomotion\\Continuous\\ActionBasedContinuousMoveProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Inputs\\InputActionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Inputs\\InputActionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\selectscene\\scripts\\eyesonscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\selectscene\\scripts\\eyesonscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6B748D-CDEA-8191-5A15-69812369AED5}|PhotonUnityNetworking.csproj|D:\\work\\Unity\\ICTProject\\assets\\asset(features)\\photon\\photonunitynetworking\\code\\photonnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6B748D-CDEA-8191-5A15-69812369AED5}|PhotonUnityNetworking.csproj|solutionrelative:assets\\asset(features)\\photon\\photonunitynetworking\\code\\photonnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\selectscene\\scripts\\selectscenefadeinoutscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\selectscene\\scripts\\selectscenefadeinoutscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\selectscene\\scripts\\selectscenefadeinscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\usedassets\\selectscene\\scripts\\selectscenefadeinscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\selectscene\\scripts\\setcolorbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\selectscene\\scripts\\setcolorbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\morm\\onscreenkeyboard\\scripts\\originalscripts\\onscreenkeyboardbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\morm\\onscreenkeyboard\\scripts\\originalscripts\\onscreenkeyboardbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\morm\\onscreenkeyboard\\scripts\\originalscripts\\onscreenkeyboardinputfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\morm\\onscreenkeyboard\\scripts\\originalscripts\\onscreenkeyboardinputfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\morm\\onscreenkeyboard\\scripts\\originalscripts\\onscreenkeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\morm\\onscreenkeyboard\\scripts\\originalscripts\\onscreenkeyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\mainscene\\scripts\\vrrig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED86562A-8425-2D8E-CC7B-4AD67AC171D6}|Assembly-CSharp.csproj|solutionrelative:assets\\usedassets\\mainscene\\scripts\\vrrig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject\\assets\\morm\\onscreenkeyboard\\scripts\\originalscripts\\onscreenkeyboard_kr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\morm\\onscreenkeyboard\\scripts\\originalscripts\\onscreenkeyboard_kr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\Unity\\ICTProject\\assets\\usedassets\\selectscene\\eyesonscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\usedassets\\selectscene\\eyesonscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\SelectScene\\Scripts\\NetworkManager.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\NetworkManager.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\SelectScene\\Scripts\\NetworkManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T00:47:35.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SenarioProcessReadyScript.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\SenarioProcessReadyScript.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\SelectScene\\Scripts\\SenarioProcessReadyScript.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\SenarioProcessReadyScript.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\SelectScene\\Scripts\\SenarioProcessReadyScript.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAUwKgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T03:10:57.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhotonTransformView.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\Asset(features)\\Photon\\PhotonUnityNetworking\\Code\\Views\\PhotonTransformView.cs",
+              "RelativeDocumentMoniker": "Assets\\Asset(features)\\Photon\\PhotonUnityNetworking\\Code\\Views\\PhotonTransformView.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\Asset(features)\\Photon\\PhotonUnityNetworking\\Code\\Views\\PhotonTransformView.cs",
+              "RelativeToolTip": "Assets\\Asset(features)\\Photon\\PhotonUnityNetworking\\Code\\Views\\PhotonTransformView.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwCAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T00:47:03.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerSpawner.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\PlayerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\PlayerSpawner.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\PlayerSpawner.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\PlayerSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T00:45:09.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\AnimationController.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\AnimationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:00:09.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\SelectScene\\Scripts\\InputManager.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\InputManager.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\SelectScene\\Scripts\\InputManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T03:23:26.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HandAnimation.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Animation\\Hands\\VR Character Hand\\HandAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Animation\\Hands\\VR Character Hand\\HandAnimation.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Animation\\Hands\\VR Character Hand\\HandAnimation.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Animation\\Hands\\VR Character Hand\\HandAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:00:16.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaveUs.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\API\\SaveUs.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\API\\SaveUs.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\API\\SaveUs.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\API\\SaveUs.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAA7wCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:05:27.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SetName.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\SetName.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\SetName.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\SetName.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\SetName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:58:31.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppearChattingBox.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\AppearChattingBox.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\AppearChattingBox.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\AppearChattingBox.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\AppearChattingBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T02:36:05.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VRChat.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\VRChat.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\VRChat.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\VRChat.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\VRChat.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:40:04.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RigEffectorWizard.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorWizard.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorWizard.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorWizard.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.animation.rigging@1.2.1\\Editor\\Effectors\\RigEffectorWizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:59:00.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhotonView.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\Asset(features)\\Photon\\PhotonUnityNetworking\\Code\\PhotonView.cs",
+              "RelativeDocumentMoniker": "Assets\\Asset(features)\\Photon\\PhotonUnityNetworking\\Code\\PhotonView.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\Asset(features)\\Photon\\PhotonUnityNetworking\\Code\\PhotonView.cs",
+              "RelativeToolTip": "Assets\\Asset(features)\\Photon\\PhotonUnityNetworking\\Code\\PhotonView.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:14:00.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartManagerScripts.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\Lobby\\Scripts\\StartManagerScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\Lobby\\Scripts\\StartManagerScripts.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\Lobby\\Scripts\\StartManagerScripts.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\Lobby\\Scripts\\StartManagerScripts.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAA7wHoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T00:43:01.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "walkSoundControlScripts.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\walkSoundControlScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\walkSoundControlScripts.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\walkSoundControlScripts.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\walkSoundControlScripts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:00:03.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\API\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\API\\Test.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\API\\Test.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\API\\Test.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:03:37.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WavUtility.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\API\\WavUtility.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\API\\WavUtility.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\API\\WavUtility.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\API\\WavUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:03:22.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InputActionManager.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Inputs\\InputActionManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Inputs\\InputActionManager.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Inputs\\InputActionManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Inputs\\InputActionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:04:56.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ActionBasedContinuousMoveProvider.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Locomotion\\Continuous\\ActionBasedContinuousMoveProvider.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Locomotion\\Continuous\\ActionBasedContinuousMoveProvider.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Locomotion\\Continuous\\ActionBasedContinuousMoveProvider.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Locomotion\\Continuous\\ActionBasedContinuousMoveProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:05:10.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ActionBasedController.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Controllers\\ActionBasedController.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Controllers\\ActionBasedController.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Controllers\\ActionBasedController.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Controllers\\ActionBasedController.cs",
+              "ViewState": "AQIAABMCAAAAAAAAAAAAACECAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:09:44.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "eyesOnScripts.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\eyesOnScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\SelectScene\\Scripts\\eyesOnScripts.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\eyesOnScripts.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\SelectScene\\Scripts\\eyesOnScripts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:53:14.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PhotonNetwork.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\Asset(features)\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "RelativeDocumentMoniker": "Assets\\Asset(features)\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\Asset(features)\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "RelativeToolTip": "Assets\\Asset(features)\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "ViewState": "AQIAAJAFAAAAAAAAAAAwwLAFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:16:03.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Button.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAlwHEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:57:48.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "selectScenefadeInOutScripts.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\selectScenefadeInOutScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\SelectScene\\Scripts\\selectScenefadeInOutScripts.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\selectScenefadeInOutScripts.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\SelectScene\\Scripts\\selectScenefadeInOutScripts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:34:44.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "setColorButtons.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\setColorButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\SelectScene\\Scripts\\setColorButtons.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\setColorButtons.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\SelectScene\\Scripts\\setColorButtons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:34:40.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "selectScenefadeInScripts.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\selectScenefadeInScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\SelectScene\\Scripts\\selectScenefadeInScripts.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\Scripts\\selectScenefadeInScripts.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\SelectScene\\Scripts\\selectScenefadeInScripts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:28:31.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OnScreenKeyboard_KR.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboard_KR.cs",
+              "RelativeDocumentMoniker": "Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboard_KR.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboard_KR.cs",
+              "RelativeToolTip": "Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboard_KR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:56:25.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "eyesOnScripts.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\eyesOnScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\SelectScene\\eyesOnScripts.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\SelectScene\\eyesOnScripts.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\SelectScene\\eyesOnScripts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:52:27.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OnScreenKeyboardButton.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboardButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboardButton.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboardButton.cs",
+              "RelativeToolTip": "Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboardButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:31:16.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OnScreenKeyboardInputfield.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboardInputfield.cs",
+              "RelativeDocumentMoniker": "Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboardInputfield.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboardInputfield.cs",
+              "RelativeToolTip": "Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboardInputfield.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:54:30.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OnScreenKeyboard.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboard.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboard.cs",
+              "RelativeToolTip": "Assets\\Morm\\OnScreenKeyboard\\Scripts\\OriginalScripts\\OnScreenKeyboard.cs",
+              "ViewState": "AQIAAP4AAAAAAAAAAAAzwCwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:31:36.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VRRig.cs",
+              "DocumentMoniker": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\VRRig.cs",
+              "RelativeDocumentMoniker": "Assets\\UsedAssets\\MainScene\\Scripts\\VRRig.cs",
+              "ToolTip": "D:\\work\\Unity\\ICTProject\\Assets\\UsedAssets\\MainScene\\Scripts\\VRRig.cs",
+              "RelativeToolTip": "Assets\\UsedAssets\\MainScene\\Scripts\\VRRig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:22:59.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
